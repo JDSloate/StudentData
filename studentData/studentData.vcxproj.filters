@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="networkStudent.cpp" />
+    <ClCompile Include="roster.cpp" />
+    <ClCompile Include="securityStudent.cpp" />
+    <ClCompile Include="softwareStudent.cpp" />
+    <ClCompile Include="student.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="degree.h" />
+    <ClInclude Include="networkStudent.h" />
+    <ClInclude Include="roster.h" />
+    <ClInclude Include="securityStudent.h" />
+    <ClInclude Include="softwareStudent.h" />
+    <ClInclude Include="student.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{f68bce42-50a5-4fb2-98bd-f4f6635cf467}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{46cfd0ca-edbf-48cb-a705-96cdf5aee19f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

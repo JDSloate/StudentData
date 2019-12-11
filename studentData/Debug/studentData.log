@@ -1,0 +1,4 @@
+﻿  roster.cpp
+G:\GitHub\Repo\studentData\roster.cpp(177): error C2600: 'Roster::~Roster': cannot define a compiler-generated special member function (must be declared in the class first)
+G:\GitHub\Repo\studentData\roster.cpp(178): warning C4154: deletion of an array expression; conversion to pointer supplied
+  G:\GitHub\Repo\studentData\roster.cpp(178): note: This diagnostic occurred in the compiler generated function 'Roster::~Roster(void)'
